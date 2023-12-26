@@ -1,0 +1,15 @@
+.default {
+    padding: 80px 15px;
+}
+
+.default .title {
+    max-width: 1200px;
+    margin: 0 auto 24px auto;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.inner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
